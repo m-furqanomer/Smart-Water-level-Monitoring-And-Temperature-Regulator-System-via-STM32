@@ -1,0 +1,6 @@
+# Treat linker scripts as Assembly so GitHub doesn't mark repo as Linker Script
+*.ld linguist-language=Assembly
+
+# Ignore build and vendor directories from language stats
+/build/** linguist-vendored
+/vendor/** linguist-vendored
