@@ -100,8 +100,6 @@ The project demonstrates practical embedded-system design, focusing on sensor in
 * **System Flow Diagram**
   [View Flow Diagram](docs/flowchart.pdf)
 
-> Place the actual files inside the `docs/` directory and update filenames if needed.
-
 ## Development Environment
 
 * **IDE**: STM32CubeIDE
