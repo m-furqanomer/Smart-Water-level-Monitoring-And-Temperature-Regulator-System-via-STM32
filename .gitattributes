@@ -1,6 +1,13 @@
-# Treat linker scripts as Assembly so GitHub doesn't mark repo as Linker Script
+# Count C files properly
+*.c linguist-language=C
+*.h linguist-language=C
+
+# Treat linker scripts as Assembly (optional)
 *.ld linguist-language=Assembly
 
-# Ignore build and vendor directories from language stats
-/build/** linguist-vendored
-/vendor/** linguist-vendored
+# Ignore vendor libraries and build artifacts
+/Drivers/** linguist-vendored
+/Middlewares/** linguist-vendored
+/Inc/** linguist-vendored       # Optional if headers are mostly auto-generated
+/Debug/** linguist-vendored
+/Release/** linguist-vendored
