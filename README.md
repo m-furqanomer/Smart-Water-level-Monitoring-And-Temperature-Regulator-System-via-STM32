@@ -95,10 +95,10 @@ The project demonstrates practical embedded-system design, focusing on sensor in
 ## Schematics and Flow Diagrams
 
 * **Hardware Schematic**
-  [View Schematic Diagram](https://github.com/m-furqanomer/Smart-Water-level-Monitoring-And-Temperature-Regulator-System-via-STM32/blob/main/Additional%20Docs/Flow%20Diagram.jpg)
+  [View Schematic Diagram](https://github.com/m-furqanomer/Smart-Water-level-Monitoring-And-Temperature-Regulator-System-via-STM32/blob/main/Additional%20Docs/Schematic.jpg)
 
 * **System Flow Diagram**
-  [View Flow Diagram](docs/flowchart.pdf)
+  [View Flow Diagram]([docs/flowchart.pdf](https://github.com/m-furqanomer/Smart-Water-level-Monitoring-And-Temperature-Regulator-System-via-STM32/blob/main/Additional%20Docs/Flow%20Diagram.jpg))
 
 ## Development Environment
 
