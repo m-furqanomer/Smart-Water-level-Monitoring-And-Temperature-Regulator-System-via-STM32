@@ -119,6 +119,17 @@ This project was developed as part of the **Microcontroller & Interfacing (CE205
 * Texas Instruments, *LM35 Datasheet*
 * Open-source LCD driver references
 
-## License
+## 📄 License
 
-This project is intended for **educational and academic use**. Reuse and modification are permitted with appropriate attribution.
+This project is open-source and available under the MIT License.
+
+---
+
+## 👨‍💻 Author
+
+**Muhammad Furqan Omer**
+
+Computer Engineering Graduate
+Embedded Systems | Renewable Energy Monitoring | IoT Development
+
+If you find this project useful, consider giving it a ⭐ on GitHub.
